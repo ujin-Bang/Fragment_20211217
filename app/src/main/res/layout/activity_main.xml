@@ -21,4 +21,10 @@
         android:layout_width="match_parent"
         android:layout_height="250dp"
         class="com.neppplus.fragment_20211217.fragments.SecondFragment"/>
+
+    <fragment
+        android:tag="첫 프래그먼트 -1 "
+        android:layout_width="match_parent"
+        android:layout_height="250dp"
+        class="com.neppplus.fragment_20211217.fragments.FirstFragment"/>
 </LinearLayout>
